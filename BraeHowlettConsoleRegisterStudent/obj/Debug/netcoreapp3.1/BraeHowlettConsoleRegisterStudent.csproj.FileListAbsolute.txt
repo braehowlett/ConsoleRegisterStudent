@@ -1,0 +1,14 @@
+C:\Users\Brae\source\repos\BraeHowlettConsoleRegisterStudent\bin\Debug\netcoreapp3.1\BraeHowlettConsoleRegisterStudent.exe
+C:\Users\Brae\source\repos\BraeHowlettConsoleRegisterStudent\bin\Debug\netcoreapp3.1\BraeHowlettConsoleRegisterStudent.deps.json
+C:\Users\Brae\source\repos\BraeHowlettConsoleRegisterStudent\bin\Debug\netcoreapp3.1\BraeHowlettConsoleRegisterStudent.runtimeconfig.json
+C:\Users\Brae\source\repos\BraeHowlettConsoleRegisterStudent\bin\Debug\netcoreapp3.1\BraeHowlettConsoleRegisterStudent.runtimeconfig.dev.json
+C:\Users\Brae\source\repos\BraeHowlettConsoleRegisterStudent\bin\Debug\netcoreapp3.1\BraeHowlettConsoleRegisterStudent.dll
+C:\Users\Brae\source\repos\BraeHowlettConsoleRegisterStudent\bin\Debug\netcoreapp3.1\BraeHowlettConsoleRegisterStudent.pdb
+C:\Users\Brae\source\repos\BraeHowlettConsoleRegisterStudent\obj\Debug\netcoreapp3.1\BraeHowlettConsoleRegisterStudent.csproj.AssemblyReference.cache
+C:\Users\Brae\source\repos\BraeHowlettConsoleRegisterStudent\obj\Debug\netcoreapp3.1\BraeHowlettConsoleRegisterStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brae\source\repos\BraeHowlettConsoleRegisterStudent\obj\Debug\netcoreapp3.1\BraeHowlettConsoleRegisterStudent.AssemblyInfoInputs.cache
+C:\Users\Brae\source\repos\BraeHowlettConsoleRegisterStudent\obj\Debug\netcoreapp3.1\BraeHowlettConsoleRegisterStudent.AssemblyInfo.cs
+C:\Users\Brae\source\repos\BraeHowlettConsoleRegisterStudent\obj\Debug\netcoreapp3.1\BraeHowlettConsoleRegisterStudent.csproj.CoreCompileInputs.cache
+C:\Users\Brae\source\repos\BraeHowlettConsoleRegisterStudent\obj\Debug\netcoreapp3.1\BraeHowlettConsoleRegisterStudent.dll
+C:\Users\Brae\source\repos\BraeHowlettConsoleRegisterStudent\obj\Debug\netcoreapp3.1\BraeHowlettConsoleRegisterStudent.pdb
+C:\Users\Brae\source\repos\BraeHowlettConsoleRegisterStudent\obj\Debug\netcoreapp3.1\BraeHowlettConsoleRegisterStudent.genruntimeconfig.cache
